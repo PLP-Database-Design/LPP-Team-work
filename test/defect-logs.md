@@ -13,8 +13,8 @@ Testing covered routing, navigation, checkout workflow, and accessibility of maj
 
 ---
 
-| ID | Date | Component | Summary | Steps to Reproduce | Expected Result | Actual Result | Severity | Status | Reporter |
-|----|------|------------|----------|--------------------|-----------------|----------------|-----------|----------|-----------|
+| ID | Date | Component | Summary | Steps to Reproduce | Expected Result | Actual Result | Severity | Status | Reporter | Evidence |
+|----|------|------------|----------|--------------------|-----------------|----------------|-----------|----------|-----------|---------|
 | BUG001 | 12/11/2025 | CheckoutPage | 'Pay Now' button allows multiple clicks | 1. Proceed to checkout 2. Click 'Pay Now' repeatedly | Only one payment request should trigger | Multiple payment attempts processed when clicked quickly | Critical | Open | Lena |
 | BUG002 | 12/11/2025 | CheckoutPage | Missing input validation for postal code format | 1. Enter letters in postal code 2. Click 'Next'| Should display validation error | Form proceeds without validating postal code | Major | Open | Lena |
 | BUG003 | 12/11/2025 | CheckoutPage | Invalid email accepted | 1. Enter abc@ as email 2. Click 'Next' | Should show “Enter valid email” error | Form accepts invalid email | Major | Open | Peter Adebisi |
