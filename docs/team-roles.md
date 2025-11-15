@@ -71,3 +71,4 @@ Jira Access Permissions:
 ##  Repository & Code Access
 
 Repository Link:   https://github.com/prifton-code/wk-6-1-prifton-code.git
+                   https://prifton.atlassian.net/jira/software/projects/SOF/code
