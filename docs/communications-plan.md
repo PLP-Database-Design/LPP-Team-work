@@ -1,8 +1,8 @@
-# 🗣 Communication Plan — Bookstore App QA Project
-
+# Communication Plan — Bookstore App QA Project
+# LPP TEAM
 Project: Bookstore App — Web Application QA  
 Team Members:  
-- Lena Ngarama — QA Lead / Test Executor  
+- [Lena Ngarama] — QA Lead / Test Executor  
 - [Prifton Mliwa] — Project Admin / Board Owner  
 - [Peter Adebisi] — Repo & Build Owner  
 
@@ -46,7 +46,7 @@ It ensures that everyone:
 
 | Type | Participants | Frequency | Format | Purpose |
 |------|--------------|------------|---------|----------|
-| *Daily Check-In (async)* | All members | Daily | Jira comments or WhatsApp | Status updates and blockers |
+| *Daily Check-In | All members | Daily | Jira comments or WhatsApp | Status updates and blockers |
 | *Weekly Review Meeting* | Entire QA Team | Every Friday | Virtual (Zoom/Meet) | Review progress and plan next week |
 | *Mid-Week Stand-Up* | QA Lead + Repo Owner | Wednesday | Chat / Voice | Review build or test environment issues |
 | *End-Week Report* | QA Lead → Supervisor | Every Sunday | Email + PDF | Summary of QA progress and findings |
@@ -58,7 +58,7 @@ It ensures that everyone:
 
 | Role | Responsibilities |
 |------|------------------|
-| QA Lead (Lena Ngarama| Prepare weekly QA report, lead test planning and execution updates, maintain Jira issue hygiene |
+| QA Lead (Lena Ngarama) | Prepare weekly QA report, lead test planning and execution updates, maintain Jira issue hygiene |
 | Project Admin (Prifton Mliwa) | Maintain Jira board, manage user access, and ensure all members update task statuses |
 | Repo & Build Owner (Peter Adebisi)| Maintain build readiness, communicate environment changes, support defect retesting |
 | All Members | Update issue statuses daily, participate in meetings, log defects with evidence |

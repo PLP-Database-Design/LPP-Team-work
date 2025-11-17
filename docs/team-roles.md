@@ -1,5 +1,5 @@
 # Team Roles & Responsibilities
-
+# LPP TEAM
 Project: Book Store App Project  
 Project Type: Jira Software (Scrum)  
 Team Size: 3 Members  

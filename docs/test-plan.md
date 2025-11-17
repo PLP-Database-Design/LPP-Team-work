@@ -2,7 +2,7 @@
 
 Project: Bookstore App – Web Application  
 Date: 4th November 2025  
-Prepared by: QA Team (Lena Ngarama, Prifton Mliwa, Peter Adebisi)  
+Prepared by: LPP Team (Lena Ngarama, Prifton Mliwa, Peter Adebisi)  
 
 ---
 
@@ -148,7 +148,7 @@ All test cases and bugs will be traceable to the corresponding Functional Requir
 
 | Name | Role | Signature | Date |
 |------|------|------------|------|
-| Prifton Mliwa | Project Lead | P.M | 5/11/2025 |
+| [Prifton Mliwa] | Project Lead | P.M | 5/11/2025 |
 | [Peter Adebisi ] | Test developer | P.A | 5/11/2025 |
 | [Lena Wahu ] | QA Tester | L.W | 5/11/2025 |
 
